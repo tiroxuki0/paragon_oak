@@ -1,0 +1,111 @@
+@import "../../../Variables.scss";
+.products {
+  padding: 150px 0px;
+  .title {
+    color: $line;
+    text-align: center;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 20px;
+  }
+  .description_short {
+    font-size: 80px;
+    text-align: center;
+    font-family: "Neuton";
+    margin: 20px 0px;
+  }
+  .description {
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto 100px auto;
+  }
+  &_item {
+    height: 500px;
+    padding: 50px;
+    margin-top: 15px;
+    a {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      padding: 10px;
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-start;
+      flex-direction: column;
+      &:hover {
+        .border-top {
+          width: 100%;
+        }
+        .border-right {
+          height: 100%;
+          top: 0;
+        }
+        .border-bottom {
+          width: 100%;
+          left: 0;
+        }
+        .border-left {
+          height: 100%;
+        }
+      }
+      .border-top {
+        position: absolute;
+        width: 0;
+        height: 3px;
+        background: $line;
+        top: 0;
+        left: 0;
+        transition: all 0.5s linear;
+        border: none !important;
+      }
+      .border-right {
+        border: none !important;
+        position: absolute;
+        width: 3px;
+        height: 0;
+        background: $line;
+        bottom: 0;
+        right: 0;
+        transition: all 0.5s linear;
+      }
+      .border-bottom {
+        position: absolute;
+        border: none !important;
+        width: 0;
+        height: 3px;
+        background: $line;
+        bottom: 0;
+        right: 0;
+        transition: all 0.5s linear;
+      }
+      .border-left {
+        position: absolute;
+        width: 3px;
+        height: 0;
+        background: $line;
+        border: none !important;
+        top: 0;
+        left: 0;
+        transition: all 0.5s linear;
+      }
+    }
+    .title {
+      text-align: left;
+      color: white;
+    }
+    .heading {
+      text-align: left;
+      color: white;
+      text-transform: capitalize;
+      font-size: 55px;
+      font-family: "Neuton";
+      word-spacing: 5px;
+    }
+  }
+}
+@media screen and (max-width: 767.98px) {
+  .products .description_short {
+    font-size: 60px;
+  }
+}
