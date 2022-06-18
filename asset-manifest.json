@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.9bc38fcd.css",
-    "main.js": "/static/js/main.a8bceca1.js",
-    "static/media/testimonialsBg.png": "/static/media/testimonialsBg.07a40e511b599cb6e948.png",
-    "static/media/house4.jpg": "/static/media/house4.fb2d92f906f076fdea97.jpg",
-    "static/media/house2.jpg": "/static/media/house2.0387593d456d9f4dfd01.jpg",
-    "static/media/house3.jpg": "/static/media/house3.3dc8db668e073f689c62.jpg",
-    "static/media/heroBg.jpg": "/static/media/heroBg.e6ce746f6bf9d644e664.jpg",
-    "static/media/house1.jpg": "/static/media/house1.5110ea899648d7ab6c18.jpg",
-    "static/media/map-v4.png": "/static/media/map-v4.1b10f671beb4bdf98946.png",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
-    "static/media/carousel3.png": "/static/media/carousel3.a12c3a815594cb60b40b.png",
-    "static/media/paragon_oak_icon.png": "/static/media/paragon_oak_icon.4ac18cd9b935deaa07a0.png",
-    "index.html": "/index.html",
-    "main.9bc38fcd.css.map": "/static/css/main.9bc38fcd.css.map",
-    "main.a8bceca1.js.map": "/static/js/main.a8bceca1.js.map"
+    "main.css": "/paragon_oak/static/css/main.e4d64300.css",
+    "main.js": "/paragon_oak/static/js/main.57d7d9e8.js",
+    "static/media/testimonialsBg.png": "/paragon_oak/static/media/testimonialsBg.07a40e511b599cb6e948.png",
+    "static/media/house4.jpg": "/paragon_oak/static/media/house4.fb2d92f906f076fdea97.jpg",
+    "static/media/house2.jpg": "/paragon_oak/static/media/house2.0387593d456d9f4dfd01.jpg",
+    "static/media/house3.jpg": "/paragon_oak/static/media/house3.3dc8db668e073f689c62.jpg",
+    "static/media/heroBg.jpg": "/paragon_oak/static/media/heroBg.e6ce746f6bf9d644e664.jpg",
+    "static/media/house1.jpg": "/paragon_oak/static/media/house1.5110ea899648d7ab6c18.jpg",
+    "static/media/map-v4.png": "/paragon_oak/static/media/map-v4.1b10f671beb4bdf98946.png",
+    "static/media/bootstrap-icons.woff?": "/paragon_oak/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/paragon_oak/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/carousel3.png": "/paragon_oak/static/media/carousel3.a12c3a815594cb60b40b.png",
+    "static/media/paragon_oak_icon.png": "/paragon_oak/static/media/paragon_oak_icon.4ac18cd9b935deaa07a0.png",
+    "index.html": "/paragon_oak/index.html",
+    "main.e4d64300.css.map": "/paragon_oak/static/css/main.e4d64300.css.map",
+    "main.57d7d9e8.js.map": "/paragon_oak/static/js/main.57d7d9e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bc38fcd.css",
-    "static/js/main.a8bceca1.js"
+    "static/css/main.e4d64300.css",
+    "static/js/main.57d7d9e8.js"
   ]
 }
